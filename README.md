@@ -35,7 +35,7 @@ Some interesting observations can be made within this summary.  Here we see that
 ## PyBer Analysis Summary
 Based on the analysis it is clear that there's an underserved community in rural city neighborhoods by drivers.  As shown in the chart below, ridership is fairly consistent for the period covered.  This consistency is a key component to targeting areas for improvement to the company's bottom line.  
 
-![Pyber_fare_summary.png](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png)
+![PyBer_fare_summary.png](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of increasing overall company revenue:
 
