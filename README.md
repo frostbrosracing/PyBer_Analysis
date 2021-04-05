@@ -32,10 +32,10 @@ The average fare per ride is much more closely related than any of the other key
 #### 5. Average Fare per Driver by City Type
 Some interesting observations can be made within this summary.  Here we see that even though there is such a significantly smaller revenue total, because there are so few drivers in ***rural*** city types, the average fare per driver is much greater than in ***urban*** city types.  It's here that the recommendations summarized below begin to take shape.
 
-## PyBer Analysis Summary
-Based on the analysis, it begins to become clear that there's an underserved community in rural city neighborhoods by drivers.  As shown in the chart below, ridership is fairly consistent for the period in the study.  This consistency is a key component that will provide a solid foundation for the company as it begins to explore opportunities to close the gap discovered in the coverage areas. 
-
 ![PyBer_fare_summary.png](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+
+## PyBer Analysis Summary
+Based on the analysis, it becomes clear that there's an underserved community in rural city neighborhoods by drivers.  As shown in the chart above, ridership is fairly consistent for the period in the study.  This consistency is a key component that will provide a solid foundation for the company as it begins to explore opportunities to close the gap discovered in the coverage areas. 
 
 In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of **increasing overall company revenue**:
 
