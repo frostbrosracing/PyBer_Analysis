@@ -17,7 +17,7 @@ The analysis was conducted by grouping cities according to what type of city the
 - Software: Python 3.7.9, Jupyter Notebook 6.1.4, Pandas 1.1.3, Numpy 1.17.0, Matplotlib 3.3.2
  
 ## PyBer Analysis Results
-The results show that between the city types of ***urban*** and ***rural*** there's a great disparity in the summarized values for each of the figures being calculated.  The ***suburban*** city type falls reasonably well placed in the outcome of the analysis.  In order to provide the most value to key decision makers within the company, the scope of this analysis focuses on closing the revenue gap between the highest and lowest areas.  The image below shows the totals and averages for all calculated summaries in this analysis.
+The results show that between the ***urban*** and ***rural*** city types, there's a great disparity in the summarized values for each of the figures being calculated.  The ***suburban*** city type falls reasonably well placed in the outcome of the analysis, and therefore the scope of this analysis focuses on closing the revenue gap between the highest and lowest areas.  The image below shows the totals and averages for all calculated summaries.
 
 ![PyBer_summary_dataframe.PNG](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_summary_dataframe.PNG)
 
@@ -33,8 +33,10 @@ The average fare per ride is much more closely related than any of the other key
 Some interesting observations can be made within this summary.  Here we see that even though there is such a significantly smaller revenue total, because there are so few drivers in ***rural*** city types, the average fare per driver is much greater than in ***urban*** city types.  It's here that the following recommendations begin to take shape.
 
 ## PyBer Analysis Summary
-Based on the analysis it is clear the there is an underserved community in rural city neighborhoods by drivers.  In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered:
+Based on the analysis it is clear that there's an underserved community in rural city neighborhoods by drivers.  As shown in the chart below, ridership is fairly consistent for the period covered.  This consistency is a key component to targeting areas for improvement to the company's bottom line.  In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of increasing overall company revenue:
 
 1.	A slight decrease in the overall cost to consumers using the PyBer service in ***rural*** city types will likely increase demand in those areas.  
-2.	Based on the increased demand of rides generated from the adjusted prices in rural city types, increase the driver availability in those areas by offering incentives to service that increase in demand. 
-3.	Slightly increase the price per mile in more densely populated urban city types to increase the Average 
+2.	Based on the increased demand of rides generated from the adjusted prices in rural areas, it will be necessary to increase the driver availability in those areas.  By offering incentives to drivers who provide that coverage, the overall number of drivers will slightly decrease from the urban areas as they begin to provide service in the outlying areas.
+3.	This decrease in total supply of drivers in urban areas will cause an increase in the demand and therefore justify an increase in the total fares, the average fare per driver and consequently help close the gap in total revenue between ***rural*** and ***urban*** city types.
+
+By putting these recommendations in place, PyBer can not only increase overall revenue, but also invest in long term rider loyalty by gaining exposure to a new customer base previously unserved by the company.
