@@ -43,4 +43,4 @@ In order to balance the distribution of driver coverage to different ride areas 
 2.	Based on the increased demand of rides generated from the adjusted prices in rural areas, it will be necessary to increase the driver availability in those areas.  By offering incentives to drivers who provide that coverage, the overall number of drivers will slightly decrease from the urban areas as they begin to provide service in the outlying areas.
 3.	This decrease in total supply of drivers in urban areas will cause an increase in the demand and therefore justify an increase in the total fares, the average fare per driver and consequently help close the gap in total revenue between ***rural*** and ***urban*** city types.
 
-By putting these recommendations in place, PyBer can not only increase overall revenue, but also invest in long term rider loyalty by gaining exposure to a new customer base previously unserved by the company.
+By putting these recommendations in place, PyBer has the opportunity to increase overall revenue and also invest in long term rider loyalty by gaining exposure to a new customer base previously unserved by the company.
