@@ -37,7 +37,7 @@ Based on the analysis, it begins to become clear that there's an underserved com
 
 ![PyBer_fare_summary.png](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
-In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of **increasing overall company revenue***:
+In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of **increasing overall company revenue**:
 
 1.	A slight decrease in the overall cost to consumers using the PyBer service in ***rural*** city types will likely increase demand in those areas.  
 2.	Based on the increased demand of rides generated from the adjusted prices in rural areas, it will be necessary to increase the driver availability in those areas.  By offering incentives to drivers who provide that coverage, the overall number of drivers will slightly decrease from the urban areas as they begin to provide service in the outlying areas.
