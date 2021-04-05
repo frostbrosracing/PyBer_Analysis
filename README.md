@@ -20,6 +20,8 @@ The analysis was conducted by grouping cities according to what type of city the
 The results show that between the ***urban*** and ***rural*** city types, there's a great disparity in the summarized values for each of the figures being calculated.  The ***suburban*** city type falls reasonably well placed in the outcome of the analysis, and therefore the scope of this analysis focuses on closing the revenue gap between the highest and lowest areas.  The image below shows the totals and averages for all calculated summaries.
 
 ![PyBer_summary_dataframe.PNG](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_summary_dataframe.PNG)
+![Distribution_by_city_type.png](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/Distribution_by_city_type.png)
+
 
 #### 1. Total Rides by City Type
 Because of the dense population of cites categorized as ***urban***, total ride volume is inherently greater in these locations than in ***suburban*** or ***rural*** areas.  As shown in the summary dataframe below, the total number of rides in ***urban*** city types is **13 times greater** than the total number of rides in ***rural*** city types. 
