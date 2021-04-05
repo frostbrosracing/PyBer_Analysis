@@ -23,6 +23,8 @@ In order for key personnel to make strategic decisions at the school and distric
 ### 1. Total Rides by City Type
 Because of the dense population of cites categorized as ***urban***, total ride volume is inherently greater in these locations than in ***suburban*** or ***rural*** areas.  As shown in the summary dataframe below, the total number of rides in ***urban*** city types is more than **10 times greater** than the total number of rides in ***rural*** city types. 
 
+![PyBer_summary_dataframe.PNG](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_summary_dataframe.PNG)
+
 ### 2. Total Drivers by City Type
 
 ### 3. Total Fares by City Type
