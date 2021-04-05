@@ -17,7 +17,7 @@ The analysis was conducted by grouping cities according to what type of city the
 - Software: Python 3.7.9, Jupyter Notebook 6.1.4, Pandas 1.1.3, Numpy 1.17.0, Matplotlib 3.3.2
  
 ## PyBer Analysis Results
-The image below shows the totals and averages for all calculated summaries in this analysis.
+The results show that between the city types of ***urban*** and ***rural*** there's a great disparity in the summarized values for each of the figures being calculated.  The ***suburban*** city type falls reasonably well placed in the outcome of the analysis.  In order to provide the most value to key decision makers within the company, the scope of this analysis focuses on closing the revenue gap between the highest and lowest areas.  The image below shows the totals and averages for all calculated summaries in this analysis.
 
 ![PyBer_summary_dataframe.PNG](https://github.com/frostbrosracing/PyBer_Analysis/blob/main/analysis/PyBer_summary_dataframe.PNG)
 
