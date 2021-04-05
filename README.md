@@ -39,7 +39,7 @@ Based on the analysis, it begins to become clear that there's an underserved com
 
 In order to balance the distribution of driver coverage to different ride areas the following recommendations should be considered with the goal of **increasing overall company revenue**:
 
-1.	A slight decrease in the overall cost to consumers using the PyBer service in ***rural*** city types will likely increase demand in those areas.  
+1.	A slight decrease in the overall cost to consumers using the PyBer service in rural city types will likely increase demand in those areas.  
 2.	Based on the increased demand of rides generated from the adjusted prices in rural areas, it will be necessary to increase the driver availability in those areas.  By offering incentives to drivers who provide that coverage, the overall number of drivers will slightly decrease from the urban areas as they begin to provide service in the outlying areas.
 3.	This decrease in total supply of drivers in urban areas will cause an increase in the demand and therefore justify an increase in the total fares, the average fare per driver and consequently help close the gap in total revenue between rural and urban city types.
 
