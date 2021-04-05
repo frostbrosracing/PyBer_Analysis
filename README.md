@@ -2,7 +2,7 @@
 
 ## Project Overview of the PyBer Analysis
 #### This project was completed to provide insights to the CEO of PyBer based on an analysis of ride data from the first four months of 2019.
-The analysis was conducted by grouping cities according to what type of city they were.  These types were: ***urban***, ***suburban***, and ***rural***.  By classifying cities in this way, we're able to begin to see trends based on summarized data collected based on a number of factors.  
+The analysis was conducted by grouping cities according to what type of city they were.  These types were: ***urban***, ***suburban***, and ***rural***.  By classifying cities in this way, we're able to begin to see trends in data collected based on a number of factors.  
 
   1.  Total rides summarized by city type
   2.  Total drivers summarized by city type
